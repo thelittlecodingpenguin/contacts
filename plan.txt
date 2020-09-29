@@ -1,0 +1,4 @@
+Give two options:
+look up a contact or add one
+if user picks to search, we search by name
+if user picks to add, we ask what is the name and what is the phone number
